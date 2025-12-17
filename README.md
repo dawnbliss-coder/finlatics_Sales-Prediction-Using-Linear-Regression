@@ -1,11 +1,19 @@
-# 📊 Data Analytics Projects — Facebook Marketplace & Sales Prediction
+# 📊 Data Analytics & Sales Prediction
 
-This repository contains two data analysis projects:
+Two data analysis projects demonstrating exploratory data analysis (EDA), statistical modeling, and machine learning techniques for business insights.
 
-1. **Facebook Live Sellers Dataset Analysis (Thailand)**
-2. **Advertising-Based Sales Prediction**
+## Projects
 
-Both projects include preprocessing, EDA, visualizations, statistics, and modeling.
+1. **Facebook Live Sellers Analysis** - EDA and K-means clustering on Thailand marketplace data
+2. **Advertising Sales Prediction** - Multiple linear regression model predicting sales from TV, radio, and newspaper spend
+
+## Key Techniques
+
+- Exploratory Data Analysis (EDA) with correlation analysis
+- K-means clustering for customer segmentation
+- Multiple linear regression for sales forecasting
+- Feature engineering and data preprocessing
+- Model evaluation and comparison
 
 ---
 
